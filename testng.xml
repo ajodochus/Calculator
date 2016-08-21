@@ -5,5 +5,5 @@
     <classes>
         <class name="CalcDemoTest"/> 
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test hallo -->
 </suite> <!-- Suite -->
